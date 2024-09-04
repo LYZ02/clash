@@ -1,0 +1,34 @@
+payload:
+  # OpenAI
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-KEYWORD,openai
+  # ai.com
+  - DOMAIN-SUFFIX,ai.com
+  # POE
+  - DOMAIN-SUFFIX,poe.com
+  # Google Bard
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,clients6.google.com
+  # intelj AI
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
+  # Claude
+  - DOMAIN-KEYWORD,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  # Suno
+  - DOMAIN-KEYWORD,suno.ai
+  # Coze
+  - DOMAIN-KEYWORD,coze.com
+  # Meta AI
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,ai.meta.com
+  # Groq
+  - DOMAIN-SUFFIX,groq.com
+  # Perplexity
+  - DOMAIN-SUFFIX,perplexity.ai
+  # Zed
+  - DOMAIN-SUFFIX,llm.zed.dev

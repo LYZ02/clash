@@ -1,0 +1,36 @@
+payload:
+  # Apple
+  - DOMAIN,captive.apple.com
+  - DOMAIN,time-ios.apple.com
+  - DOMAIN,developer.apple.com
+  - DOMAIN,sandbox.itunes.apple.com
+  - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,aaplimg.com
+  - DOMAIN-SUFFIX,cdn20.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,akamaiedge.net
+  - DOMAIN-SUFFIX,edgekey.net
+  - DOMAIN-SUFFIX,mwcloudcdn.com
+  - DOMAIN-SUFFIX,mwcname.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
+  - DOMAIN-SUFFIX,push.apple.com
+  # Apple Music
+  - DOMAIN,aod.itunes.apple.com
+  - DOMAIN,audio.itunes.apple.com
+  - DOMAIN,audio-ssl.itunes.apple.com
+  - DOMAIN,mvod.itunes.apple.com
+  - DOMAIN,streamingaudio.itunes.apple.com
+  - DOMAIN-SUFFIX,blobstore.apple.com
+  - DOMAIN-SUFFIX,music.apple.com
+  #  App Store Connect
+  - DOMAIN,appstoreconnect.apple.com
+  - DOMAIN,iosapps-ssl.itunes.apple.com
+  - DOMAIN,itcmobile.itunes.apple.com
+  # TestFlight
+  - DOMAIN,beta.apple.com
+  - DOMAIN,testflight.apple.com

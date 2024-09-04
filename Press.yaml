@@ -1,0 +1,13 @@
+payload:
+  # ArXiv
+  - DOMAIN-SUFFIX,arxiv.org
+  # BiorXiv
+  - DOMAIN-SUFFIX,biorxiv.org
+  # OpenReview
+  - DOMAIN-SUFFIX,openreview.net
+  # Academy Accelerate
+  - DOMAIN-SUFFIX,mlr.press
+  # SCI-Hub
+  - DOMAIN-KEYWORD,sci-hub
+  # NeurIPS
+  - DOMAIN-KEYWORD,neurips.cc

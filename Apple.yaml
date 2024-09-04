@@ -1,0 +1,9 @@
+payload:
+  # Dictionary Lookup
+  - DOMAIN,lookup-api.apple.com
+  - DOMAIN-SUFFIX,smoot.apple.com
+  # Spotlight
+  - DOMAIN,api-glb-sea.smoot.apple.com
+  # Apple Encrypt
+  - DOMAIN,ocsp.apple.com
+  - DOMAIN,xp.apple.com
