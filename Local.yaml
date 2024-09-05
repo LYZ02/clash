@@ -2,10 +2,6 @@ payload:
   # Remote
   - DOMAIN-SUFFIX,frp-net.top
   - DOMAIN-SUFFIX,frp-any.top
-  - DOMAIN-SUFFIX,cfff.fudan.edu.cn
-  # local service
-  - DOMAIN-SUFFIX,cn
-  - DOMAIN-KEYWORD,-cn
   # web service
   - IP-CIDR,10.193.44.0/8
   - IP-CIDR,123.6.102.0/8
