@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,frp-any.top
   # web service
   - IP-CIDR,10.193.44.0/8
+  - IP-CIDR,10.193.2.0/8
   - IP-CIDR,123.6.102.0/8
   - IP-CIDR,157.230.194.0/8
   - IP-CIDR,20.2.8.0/8
