@@ -33,3 +33,5 @@ payload:
   - DOMAIN-SUFFIX,clientstream.launchdarkly.com
   # Docker
   - DOMAIN-SUFFIX,docker.com
+  # RSSHub
+  - DOMAIN-SUFFIX,rsshub.app
