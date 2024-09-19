@@ -35,3 +35,5 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   # RSSHub
   - DOMAIN-SUFFIX,rsshub.app
+  # DeepLX
+  - DOMAIN-SUFFIX,deeplx.missuo.ru
